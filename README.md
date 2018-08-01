@@ -10,6 +10,6 @@ Emotion Extraction
 Topic Modelling
 Document Clustering
 
-### Questions:
-Mail me:
-ozkansener@gmail.com
+Questions: ozkansener@gmail.com
+
+Vrije Universiteit Amsterdam
